@@ -1,60 +1,25 @@
-# Hi 👋 I'm Rohit Shankar
+name: Generate Snake
 
-🚀 Passionate about AI/ML, Backend Development, and Systems Programming
+on:
+  schedule:
+    - cron: "0 */12 * * *"
 
----
+  workflow_dispatch:
 
-## 👨‍💻 About Me
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-* 💻 Currently working on Python, C++, and Backend Development
-* 🤖 Learning Artificial Intelligence & Machine Learning
-* 🦀 Exploring Rust for system-level programming
-* 🎯 Goal: Become a top software engineer & contribute to Open Source (GSoC)
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: YOUR_USERNAME
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
----
-
-## ✉️ Contact Me
-
-* 📧 Email: [rohitshankar1209@gmail.com](mailto:rohitshankar1209@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/rohit-shankar-17a50b290
-
----
-
-## ⚡ Tech Stack
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" /></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" /></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" /></a>
-<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" /></a>
-</p>
-
----
-
-## 🌐 Socials
-
-* GitHub: https://github.com/rohitshankar12
-* LinkedIn: https://www.linkedin.com/in/rohit-shankar-17a50b290
-
----
-
-## 🚀 Featured Project
-
-### 🔥 AI Invoice Generator
-
-* 🤖 Built using AI + JavaScript
-* 📄 Generates smart invoices automatically
-* ⚡ Uses modern UI with Tailwind CSS
-
-🔗 https://github.com/rohitshankar12/Invoice-Generator
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rohitshankar12\&repo=Invoice-Generator\&theme=radical)
-
----
-
-⭐️ From Rohit Shankar 
-
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
