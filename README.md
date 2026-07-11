@@ -1,20 +1,11 @@
 <h1 align="center">
-  Hi 👋, I'm Rohit Shankar Sharma
+  Hi 👋, I'm Rohit Shankar
 </h1>
 
 <h3 align="center">
 🚀 AI/ML Engineer | Generative AI | LLM Engineer | RAG | LLMOps
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Applications;Generative+AI+Engineer;LLM+%7C+RAG+%7C+LLMOps;FastAPI+%7C+LangChain+%7C+LangGraph;Always+Learning+Something+New+🚀" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
-</p>
 
 ---
 
