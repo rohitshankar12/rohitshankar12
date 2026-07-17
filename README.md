@@ -41,19 +41,9 @@
 * LinkedIn: https://www.linkedin.com/in/rohit-shankar-17a50b290
 
 ---
+# 🩺 RAG-Based Medical Document Chatbot
 
-## 🚀 Featured Project
+An AI-powered **Retrieval-Augmented Generation (RAG)** application that enables users to upload medical PDFs and ask questions in natural language. The system uses semantic search and LLMs to generate accurate, context-aware answers grounded in the uploaded documents.
 
-### 🔥 AI Invoice Generator
+**Tech Stack:** Python • FastAPI • Streamlit • LangChain • Pinecone • Groq (Llama 3.3 70B) • Google Gemini Embeddings • PyMuPDF • PaddleOCR • Docker
 
-* 🤖 Built using AI + JavaScript
-* 📄 Generates smart invoices automatically
-* ⚡ Uses modern UI with Tailwind CSS
-
-🔗 https://github.com/rohitshankar12/Invoice-Generator
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rohitshankar12\&repo=Invoice-Generator\&theme=radical)
-
----
-
-⭐️ From Rohit Shankar 
