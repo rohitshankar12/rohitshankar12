@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Electronics & Communication Engineering (2027)  
 🔬 Aspiring ASIC Design Verification Engineer | Front-End VLSI  
-💡 Interested in GPU Architecture, RTL Design, and High-Performance Computing  
+💡 Interested in RTL Design, ASIC Design Verification, and GPU Architecture
 🤖 Generative AI & RAG Systems
 
 ## 👨‍💻 About Me
