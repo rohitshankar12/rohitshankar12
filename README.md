@@ -2,15 +2,15 @@
 
 🎓 B.Tech in Electronics & Communication Engineering (2027)  
 🔬 Aspiring ASIC Design Verification Engineer | Front-End VLSI  
-💡 Interested in RTL Design, ASIC Design Verification, and GPU Architecture  
+💡 Interested in RTL Design and ASIC Design Verification  
 🤖 Generative AI & RAG Systems
 
 ## 👨‍💻 About Me
 
-I'm a 2027 ECE graduate aspiring to build a career in **ASIC Design Verification and Front-End VLSI**, with an interest in semiconductor technologies and GPU architecture.
+I'm a B.Tech ECE student graduating in 2027, focused on building my skills in **RTL Design and ASIC Design Verification**, with a strong interest in semiconductor design and verification.
 
-- 🔬 Currently learning Verilog HDL, digital electronics, RTL design, and computer architecture.
-- 🎯 Career goal: Become an ASIC Design Verification Engineer at NVIDIA.
+- 🔬 Currently learning SystemVerilog HDL, UVM, RTL design, and computer architecture.
+- 🎯 Career goal: Become an ASIC Design Verification Engineer.
 - 🤖 Experienced in developing Generative AI and RAG-based applications.
 - ✈️ Summer Intern at Airports Authority of India (AAI), IT Department.
 - 🏭 Completed a one-month internship at Escorts Kubota.
@@ -23,6 +23,8 @@ I'm a 2027 ECE graduate aspiring to build a career in **ASIC Design Verification
 - Digital Electronics
 - RTL Design Fundamentals
 - Computer Architecture
+- SystemVerilog (Learning)
+- UVM (Learning)
 
 ### Programming Languages
 - Python
@@ -39,6 +41,7 @@ I'm a 2027 ECE graduate aspiring to build a career in **ASIC Design Verification
 - ✈️ **Summer Intern** — Airports Authority of India (AAI), IT Department
 - 🏭 **Intern** — Escorts Kubota (One-month internship)
 - 🏅 **IEEE Hackathon Winner**
+
 
 ## 📫 Connect With Me
 
