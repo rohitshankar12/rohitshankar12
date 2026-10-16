@@ -2,28 +2,27 @@
 
 🎓 B.Tech in Electronics & Communication Engineering (2027)  
 🔬 Aspiring ASIC Design Verification Engineer | Front-End VLSI  
-💡 Interested in RTL Design, ASIC Design Verification, and GPU Architecture
+💡 Interested in RTL Design, ASIC Design Verification, and GPU Architecture  
 🤖 Generative AI & RAG Systems
 
 ## 👨‍💻 About Me
 
-I'm an upcoming 2027 ECE graduate aspiring to build a career in **ASIC Design Verification and Front-End VLSI**, with a particular interest in semiconductor and GPU technologies.
+I'm a 2027 ECE graduate aspiring to build a career in **ASIC Design Verification and Front-End VLSI**, with an interest in semiconductor technologies and GPU architecture.
 
-- 🔬 Learning RTL design, Verilog HDL, digital electronics, and computer architecture.
+- 🔬 Currently learning Verilog HDL, digital electronics, RTL design, and computer architecture.
 - 🎯 Career goal: Become an ASIC Design Verification Engineer at NVIDIA.
 - 🤖 Experienced in developing Generative AI and RAG-based applications.
-- ✈️ Former Summer Intern at Airports Authority of India (AAI), IT Department.
+- ✈️ Summer Intern at Airports Authority of India (AAI), IT Department.
 - 🏭 Completed a one-month internship at Escorts Kubota.
 - 🏆 IEEE Hackathon Winner.
-- 💡 Interested in processor architecture, hardware verification, and AI hardware acceleration.
 
 ## 🛠️ Technical Skills
 
 ### VLSI & Digital Design
 - Verilog HDL
 - Digital Electronics
-- Computer Architecture
 - RTL Design Fundamentals
+- Computer Architecture
 
 ### Programming Languages
 - Python
@@ -38,7 +37,7 @@ I'm an upcoming 2027 ECE graduate aspiring to build a career in **ASIC Design Ve
 ## 🏆 Experience & Achievements
 
 - ✈️ **Summer Intern** — Airports Authority of India (AAI), IT Department
-- 🏭 **Intern** — Escorts Kubota, One-Month Internship
+- 🏭 **Intern** — Escorts Kubota (One-month internship)
 - 🏅 **IEEE Hackathon Winner**
 
 ## 📫 Connect With Me
