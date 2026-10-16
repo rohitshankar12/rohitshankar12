@@ -1,49 +1,52 @@
 # Hi 👋 I'm Rohit Shankar
 
-🚀 Passionate about AI/ML, Backend Development, and Systems Programming
-
----
+🎓 B.Tech in Electronics & Communication Engineering (2027)  
+🔬 Aspiring ASIC Design Verification Engineer | Front-End VLSI  
+💡 Interested in GPU Architecture, RTL Design, and High-Performance Computing  
+🤖 Generative AI & RAG Systems
 
 ## 👨‍💻 About Me
 
-* 💻 Currently working on Python, C++, and Backend Development
-* 🤖 Learning Artificial Intelligence & Machine Learning
-* 🦀 Exploring Rust for system-level programming
-* 🎯 Goal: Become a top software engineer & contribute to Open Source (GSoC)
+I'm an upcoming 2027 ECE graduate aspiring to build a career in **ASIC Design Verification and Front-End VLSI**, with a particular interest in semiconductor and GPU technologies.
+
+- 🔬 Learning RTL design, Verilog HDL, digital electronics, and computer architecture.
+- 🎯 Career goal: Become an ASIC Design Verification Engineer at NVIDIA.
+- 🤖 Experienced in developing Generative AI and RAG-based applications.
+- ✈️ Former Summer Intern at Airports Authority of India (AAI), IT Department.
+- 🏭 Completed a one-month internship at Escorts Kubota.
+- 🏆 IEEE Hackathon Winner.
+- 💡 Interested in processor architecture, hardware verification, and AI hardware acceleration.
+
+## 🛠️ Technical Skills
+
+### VLSI & Digital Design
+- Verilog HDL
+- Digital Electronics
+- Computer Architecture
+- RTL Design Fundamentals
+
+### Programming Languages
+- Python
+- C
+- C++
+
+### AI/ML & Generative AI
+- Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+
+## 🏆 Experience & Achievements
+
+- ✈️ **Summer Intern** — Airports Authority of India (AAI), IT Department
+- 🏭 **Intern** — Escorts Kubota, One-Month Internship
+- 🏅 **IEEE Hackathon Winner**
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-shankar-17a50b290)
+- 🐙 [GitHub](https://github.com/rohitshankar12)
+- 📧 [Email](mailto:rohitshankar1209@gmail.com)
 
 ---
 
-## ✉️ Contact Me
-
-* 📧 Email: [rohitshankar1209@gmail.com](mailto:rohitshankar1209@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/rohit-shankar-17a50b290
-
----
-
-## ⚡ Tech Stack
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" /></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" /></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" /></a>
-<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" /></a>
-</p>
-
----
-
-## 🌐 Socials
-
-* GitHub: https://github.com/rohitshankar12
-* LinkedIn: https://www.linkedin.com/in/rohit-shankar-17a50b290
-
----
-# 🩺 RAG-Based Medical Document Chatbot
-
-An AI-powered **Retrieval-Augmented Generation (RAG)** application that enables users to upload medical PDFs and ask questions in natural language. The system uses semantic search and LLMs to generate accurate, context-aware answers grounded in the uploaded documents.
-
-**Tech Stack:** Python • FastAPI • Streamlit • LangChain • Pinecone • Groq (Llama 3.3 70B) • Google Gemini Embeddings • PyMuPDF • PaddleOCR • Docker
-
+⭐ Building my skills in digital hardware, RTL design, and ASIC verification while exploring AI-driven technologies.
